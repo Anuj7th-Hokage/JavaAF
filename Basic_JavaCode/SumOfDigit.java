@@ -1,0 +1,1 @@
+package Basic_JavaCode;public class SumOfDigit {    public static void main (String[]args) {        int num=231;        int sum=0;       while (num !=0){           sum=sum+num%10;           num=num/10;       }        System.out.println("total sum "+sum);    }    }

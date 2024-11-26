@@ -1,0 +1,1 @@
+package Basic_JavaCode;public class Factorial {    public static void main (String[]args) {        int factorial=5;        int multi=1;        for(int i=1;i<=factorial;i++){            multi=multi*i;        }        System.out.println(factorial+" factorial is "+multi);    }    }
