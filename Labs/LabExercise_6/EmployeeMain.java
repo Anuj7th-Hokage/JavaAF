@@ -1,0 +1,1 @@
+package Labs.LabExercise_6;public class EmployeeMain {    public static void main(String[] args) {        Employee e1 = new Employee(15,"Sarvesh",600000,50000);        Employee e3 = new Employee(17,"Tejash",760000,40000);        Employee.totalEmployee();    }}
