@@ -1,0 +1,1 @@
+package LabExercise_1;public class Date {    int day;    int month;    int year;    public Date(){        day=10;        month=2;        year=2022;    }    public void initDate(){        System.out.println("Day- "+day+" month- "+month+" year- "+year);    }}
