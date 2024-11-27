@@ -1,0 +1,1 @@
+package LabExercise_1;public class DateMain {    public static void main(String[]args){        Date dat=new Date();        dat.initDate();    }}
