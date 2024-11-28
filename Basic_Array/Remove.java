@@ -1,0 +1,1 @@
+package Basic_Array;public class Remove {    public static void main(String[]args) {        int arr[] = {1, 2, 3, 4};        int total = arr.length;        int remove = 3;        for (int i = 0; i < total; i++) {            if (arr[i] == remove) {            } else {                System.out.println(arr[i]);            }        }    }}
