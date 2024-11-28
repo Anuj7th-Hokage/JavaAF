@@ -1,0 +1,1 @@
+package Basic_ClassCode;public class BankAccountMain {    public static void main(String []args){        BankAccount bank=new BankAccount(1233,2000);        System.out.println(bank);    }}

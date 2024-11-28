@@ -1,0 +1,1 @@
+package Basic_ClassCode;public class RectangleMain {    public static void main(String[]args){    Rectangle rect=new Rectangle();    rect.caluate(7f,6f,6f);    rect.caluate(4.0f,7.0f);    }}

@@ -1,0 +1,1 @@
+package Basic_ClassCode;public class PersonMain {    public static void main(String[]args){        Person pre=new Person("Anuj",21);        Person pre2=new Person("Tejas",22);        pre.print();        pre2.print();    }}

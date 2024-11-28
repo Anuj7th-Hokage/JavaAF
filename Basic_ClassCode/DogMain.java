@@ -1,0 +1,1 @@
+package Basic_ClassCode;public class DogMain {    public static void main(String[]args){        Dog dg=new Dog();        dg.setColor("black");        dg.print();    }}
