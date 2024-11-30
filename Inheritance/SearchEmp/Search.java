@@ -1,0 +1,1 @@
+package Inheritance.SearchEmp;public  class Search {    public static boolean check(int arr[], int searchId){        for (int id:arr){            if(id==searchId){                return true;            }        }        return false;    }}

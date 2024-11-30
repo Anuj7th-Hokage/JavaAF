@@ -1,0 +1,1 @@
+package Inheritance.SearchEmp;public class Employee {    int empId;    String empName;    public Employee(){        empId=110;        empName="xyz";    }    public Employee(int empId,String empName){       this.empId=empId;        this.empName=empName;    }}

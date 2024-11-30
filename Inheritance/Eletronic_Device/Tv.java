@@ -1,0 +1,1 @@
+package Inheritance.Eletronic_Device;public class Tv extends EletronicDevice {    String company;    public Tv(){        super();        company="Sony";    }    public Tv(String type,String company){        super(type);        this.company=company;    }    @Override    public String toString() {        return super.toString()+" | TV company is- "+company;    }}

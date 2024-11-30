@@ -1,0 +1,1 @@
+package Inheritance.Eletronic_Device;public class EletronicDevice {    String deviceType;    public EletronicDevice(){        deviceType="xyz";    }    public EletronicDevice(String deviceType){        this.deviceType=deviceType;    }    @Override    public String toString() {        return "Device Type- "+deviceType;    }}
