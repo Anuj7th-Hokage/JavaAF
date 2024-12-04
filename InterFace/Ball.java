@@ -1,0 +1,1 @@
+package InterFace;public class Ball implements Bounceble,Movable {    @Override    public void bounce(){        System.out.println("The ball is bounceble");    }    @Override    public void move() {        System.out.println("The ball is move left hand ");    }}

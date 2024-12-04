@@ -1,0 +1,1 @@
+package Package.Bank;public class Atm {    public void print(){        System.out.println("it is ATM class.........");    }}

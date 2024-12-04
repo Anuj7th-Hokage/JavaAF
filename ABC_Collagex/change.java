@@ -1,0 +1,1 @@
+package ABC_Collagex;public class change {    public static Hostelers getHostelDetail() {        return new Hostelers();    }}

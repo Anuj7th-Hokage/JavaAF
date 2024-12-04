@@ -1,0 +1,1 @@
+package Labs.LabExercise_15;public class Date implements Printable{    int day;    int month;    int year;    public Date(int d,int m,int y){        day=d;        month=m;        year=y;    }    public void print (){        System.out.println("It is a Date class....");        System.out.println("Day- "+day+" month- "+month+" year- "+year);    }}

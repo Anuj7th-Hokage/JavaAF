@@ -1,0 +1,1 @@
+package Labs.LabExercise_14;abstract  public class Shape {    public abstract void area();}

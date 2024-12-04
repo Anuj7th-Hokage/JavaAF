@@ -1,0 +1,1 @@
+package Package;import Package.Bank.Atm;import Package.fince.Account;public class BankMain2 {    public static void main(String[] args) {        Account acc=new Account();        Atm atm=new Atm();    }}

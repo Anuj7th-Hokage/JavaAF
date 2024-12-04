@@ -1,0 +1,1 @@
+package Package.Shapee;public class Circle {    private double radius;    public static float pi = 3.14f;    public Circle(double radius) {        this.radius = radius;    }    public static void setPi(float pi) {        Circle.pi = pi;    }    public static float getPi() {        return pi;    }}
