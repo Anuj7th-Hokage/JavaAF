@@ -1,1 +1,0 @@
-package InterFace;public interface Bounceble {    public void bounce();}

@@ -1,1 +1,1 @@
-package Package;public class BankName1 {    public static void main(String[] args) {        Package.fince.Account acc = new Package.fince.Account();        Package.Bank.Atm atm = new Package.Bank.Atm();        acc.print();        atm.print();    }}
+package Package;////public class BankName1 {//    public static void main(String[] args) {//        Package.fince.Account acc = new Package.fince.Account();//        Package.Bank.Atm atm = new Package.Bank.Atm();////        acc.print();//        atm.print();//    }//}

@@ -1,0 +1,1 @@
+package InterFace.Bounc_Move;public interface Movable{public void move();}

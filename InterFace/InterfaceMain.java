@@ -1,1 +1,0 @@
-package InterFace;public class InterfaceMain {    public static void main(String[] args) {        Bounceble b1=new Ball();        Movable m1=new Ball();        Movable m2=new Car();        b1.bounce();        m1.move();        m2.move();    }}

@@ -1,0 +1,1 @@
+package InterFace.Bounc_Move;public interface Bounceble {    public void bounce();}

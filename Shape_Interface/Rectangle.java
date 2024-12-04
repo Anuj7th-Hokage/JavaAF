@@ -1,1 +1,0 @@
-package Shape_Interface;public class Rectangle implements Drawable {    @Override    public void draw() {        System.out.println("Its draw a Rectangle...");    }}

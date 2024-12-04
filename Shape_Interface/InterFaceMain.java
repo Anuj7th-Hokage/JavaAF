@@ -1,1 +1,0 @@
-package Shape_Interface;public class InterFaceMain {    public static void print(Drawable dr){        dr.draw();    }    public static void main(String[] args) {        Drawable circle=new Circle();        Drawable rectangle=new Rectangle();        Drawable triangle=new Triangle();        print(circle);        print(rectangle);        print(triangle);    }}
