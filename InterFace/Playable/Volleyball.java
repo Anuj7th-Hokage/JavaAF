@@ -1,0 +1,1 @@
+package InterFace.Playable;public class Volleyball implements PlayAble {    @Override    public void play(){        System.out.println("Play volleyball.....");    }}

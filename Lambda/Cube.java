@@ -1,0 +1,1 @@
+package Lambda;public interface Cube {    void cubeDisplay(int num);}

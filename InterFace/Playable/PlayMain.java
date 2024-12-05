@@ -1,0 +1,1 @@
+package InterFace.Playable;public class PlayMain {    public static void main(String[] args) {        PlayAble football=new Football();        PlayAble volleyball=new Volleyball();        PlayAble basketball=new BasketBall();        football.play();        volleyball.play();        basketball.play();    }}

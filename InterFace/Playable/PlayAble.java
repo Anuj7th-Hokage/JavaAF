@@ -1,0 +1,1 @@
+package InterFace.Playable;public interface PlayAble {    public void play();}

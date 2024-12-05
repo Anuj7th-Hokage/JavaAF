@@ -1,0 +1,1 @@
+package Lambda;public interface Maximum {    int maximumDisplay(int i, int j);}
