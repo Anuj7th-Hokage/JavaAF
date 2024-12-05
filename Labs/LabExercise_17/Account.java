@@ -4,6 +4,7 @@ public class Account {
     public int accId;
     public String accName;
     public double balance;
+
       public Account() {
         this.accId = 101;
         this.accName = "aditya";
@@ -25,7 +26,7 @@ public class Account {
 
     public static void main(String[] args) {
         Account acc = new Account();
-        Account.Locker l = acc.new Locker();
-        l.print();
+        Account.Locker lock = acc.new Locker();
+        lock.print();
     }
 }
