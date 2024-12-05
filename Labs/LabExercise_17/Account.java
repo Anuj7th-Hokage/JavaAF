@@ -14,10 +14,11 @@ public class Account {
         int lcId = 292;
 
         public void print() {
+            System.out.println("Loc Id- "+lcId);
             System.out.println("Account ID- "+accId);
             System.out.println("Account Name- "+accName);
             System.out.println("Balance- "+balance);
-            System.out.println("Loc Id- "+lcId);
+
         }
 
     }
