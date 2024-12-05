@@ -3,12 +3,12 @@ package Labs.LabExercise_17;
 public class Account {
     public int accId;
     public String accName;
-    public double balance;
+    public double bal;
 
       public Account() {
-        this.accId = 101;
-        this.accName = "aditya";
-        this.balance = 80000;
+       accId = 101;
+     accName = "aditya";
+       bal = 200;
     }
 
     class Locker{
@@ -17,8 +17,8 @@ public class Account {
         public void print() {
             System.out.println("Loc Id- "+lcId);
             System.out.println("Account ID- "+accId);
-            System.out.println("Account Name- "+accName);
-            System.out.println("Balance- "+balance);
+            System.out.println("Account Naam- "+accName);
+            System.out.println("Balance- "+bal);
 
         }
 
