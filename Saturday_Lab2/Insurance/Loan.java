@@ -1,0 +1,1 @@
+package Saturday_Lab2.Insurance;public interface Loan {    public abstract double issueLoan();}
