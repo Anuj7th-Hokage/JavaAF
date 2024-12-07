@@ -1,0 +1,1 @@
+package Saturday_Lab1.Que_2;public class VolmculCul {    double radious;    static double PI = 3.14;    int length , breadth, height ;    public double calculateVolume(double radious , double height) {        return PI * radious * radious ;    }    public double calculateVolume(int length , int breadth, int height) {        return length*breadth*height ;    }}

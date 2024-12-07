@@ -1,0 +1,1 @@
+package Saturday_Lab2.Vehicle;public interface Insurance {    public double takeInsurance();}

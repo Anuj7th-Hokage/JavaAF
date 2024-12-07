@@ -1,1 +1,0 @@
-package Ticket;public interface Calculate {    public void calculateTotal();}

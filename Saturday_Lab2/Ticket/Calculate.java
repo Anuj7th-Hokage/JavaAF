@@ -1,0 +1,1 @@
+package Saturday_Lab2.Ticket;public interface Calculate {    public void calculateTotal();}
