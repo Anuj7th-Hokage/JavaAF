@@ -1,1 +1,1 @@
-package ExceptionHandling;public class Employee {    private int empId;private  int bSal;    public Employee() {empId=100;bSal=90000;    }    public void print() {        System.out.println("Emp Id- "+empId+"\n Basic Salary- "+bSal);    }}
+package ExceptionHandling;public class Employee {    private int empId;private  int bSal;    public Employee() {empId=100;bSal=90000;    }    public void print() {        System.out.println("Emp Id- "+empId+"\n Basic Salary-- "+bSal);    }}
