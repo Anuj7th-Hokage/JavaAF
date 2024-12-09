@@ -1,0 +1,1 @@
+package ExceptionHandling.InvalidAgeException;public class InvalidAge extends Exception {    String msg;    public InvalidAge(){        msg="Invalid age";    }    public InvalidAge(String m){        super(m);        this.msg=m;    }}
