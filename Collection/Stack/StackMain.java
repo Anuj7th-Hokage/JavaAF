@@ -1,0 +1,1 @@
+package Collection.Stack;public class StackMain {    public static void main(String[] args) {        MyStack<Integer> in=new MyStack<>(101);        MyStack<String>st=new MyStack<>("anuj");        System.out.println(in.getOb());        System.out.println(st.getOb());    }}

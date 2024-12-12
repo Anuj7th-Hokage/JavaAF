@@ -1,0 +1,1 @@
+package Collection.Employee_System;import java.util.ArrayList;public class EmployeeDisplay {    public static void display(ArrayList l){        System.out.println("Display employee-");        System.out.println(l);    }}

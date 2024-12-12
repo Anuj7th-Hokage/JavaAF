@@ -1,0 +1,1 @@
+package Collection.Employee_System;public class ExitProgram {    public static boolean exit(boolean x){        System.out.println("you are exit||");        return  false;    }}
