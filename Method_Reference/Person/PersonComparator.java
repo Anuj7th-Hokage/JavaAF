@@ -1,0 +1,1 @@
+package Method_Reference.Person;public class PersonComparator {    public static int comparaAge(Person a,Person b){        return  a.getAge()-b.getAge();    }    public static int compareName(Person ab,Person bc){        return ab.getName().compareTo(bc.getName());    }}

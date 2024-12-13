@@ -1,0 +1,1 @@
+package Method_Reference.Person;public class Person {    String name;    int age;    public Person(String nm,int age){        this.age=age;        this.name=nm;    }    public int getAge() {        return age;    }    public String getName() {        return name;    }}
