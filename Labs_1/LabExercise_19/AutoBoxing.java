@@ -1,0 +1,1 @@
+package Labs_1.LabExercise_19;public class AutoBoxing {    public static void main(String[] args) {        int x=30;        Integer i=x;        int y=i;        System.out.println(y);    }}

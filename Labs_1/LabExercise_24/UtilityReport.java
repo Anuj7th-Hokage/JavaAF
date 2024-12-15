@@ -1,0 +1,1 @@
+package Labs_1.LabExercise_24;import java.util.List;class UtilityReport {    public void showReport(List<Employee> employees) {        System.out.println("Employee Report:");        for (Employee employee : employees) {            System.out.println(employee);        }    }}

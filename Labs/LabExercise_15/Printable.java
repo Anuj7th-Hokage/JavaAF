@@ -1,1 +1,0 @@
-package Labs.LabExercise_15;public interface Printable {    public  void print();}

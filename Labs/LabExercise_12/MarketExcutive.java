@@ -1,1 +1,0 @@
-package Labs.LabExercise_12;public class MarketExcutive {}

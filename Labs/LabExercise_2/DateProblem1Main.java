@@ -1,1 +1,0 @@
-package Labs.LabExercise_2;public class DateProblem1Main {    public static void main (String[]args){        DateProblem1 date=new DateProblem1();        date.setDay(12);        date.setMonth(07);        date.setYear(2023);        System.out.println(date.getMonth()+"/"+ date.getMonth()+"/"+date.getYear());    }}

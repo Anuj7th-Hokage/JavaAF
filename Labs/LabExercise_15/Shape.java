@@ -1,1 +1,0 @@
-package Labs.LabExercise_15;public class Shape implements Printable {String typeShape="Circle";public Shape(String type){    this.typeShape=type;}public void print(){    System.out.println("This is a Shape classs....");    System.out.println("Type of shape is- "+typeShape);}}

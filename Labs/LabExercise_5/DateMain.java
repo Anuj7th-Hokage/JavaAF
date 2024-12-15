@@ -1,1 +1,0 @@
-package Labs.LabExercise_5;public class DateMain {    public static void main(String[]args){        Date d1=new Date();        Date d2=new Date(2,1);        Date d3=new Date(2,2022);    d1.printDate();    d2.printDate();    d3.printDate();    }}

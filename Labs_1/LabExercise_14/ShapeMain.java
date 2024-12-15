@@ -1,0 +1,1 @@
+package Labs_1.LabExercise_14;public class ShapeMain {    public static void main(String[] args) {        Shape sc=new Circle(12.5);         Shape sr=new Rectangle(12,5);        sc.area();        sr.area();    }}

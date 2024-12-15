@@ -1,0 +1,1 @@
+package Labs_1.LabExercise_2;public class EmployeeProblem3Main {    public static void main(String[] args) {        EmployeeProblem3 employee = new EmployeeProblem3(101, "anujxd", 50000, 2000);        employee.calculateSalary();        employee.displayEmployeeDetails();    }}

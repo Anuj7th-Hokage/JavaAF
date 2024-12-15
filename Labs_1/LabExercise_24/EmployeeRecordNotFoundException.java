@@ -1,0 +1,1 @@
+package Labs_1.LabExercise_24;public class EmployeeRecordNotFoundException extends Exception {    public EmployeeRecordNotFoundException(String msg) {        super(msg);    }}

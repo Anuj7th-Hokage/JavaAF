@@ -1,0 +1,1 @@
+package Labs_1.LabExercise_14;public class Rectangle extends Shape {    int length;    int breath;    public Rectangle(int length,int breath){        this.length=length;        this.breath=breath;    }    @Override    public void area(){        System.out.println("Area of reactangle- "+length*breath);    }}

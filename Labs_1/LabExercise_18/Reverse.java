@@ -1,0 +1,1 @@
+package Labs_1.LabExercise_18;import java.util.Scanner;public class Reverse {        public static void main(String[] args) {            Scanner sc = new Scanner(System.in);            System.out.println("Enter the String: ");            StringBuffer s = new StringBuffer(sc.next());            System.out.println("Reverse = "+s.reverse());        }    }

@@ -1,0 +1,1 @@
+package Labs_1.LabExercise_6;public class EmployeeMain {    public static void main(String[] args){    Employeee emp1 = new Employeee("tejas", 300000.90);    Employeee emp2 = new Employeee("sarvesh", 300000.90);        Employeee.countxd();    }}

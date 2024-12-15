@@ -1,1 +1,0 @@
-package Labs.LabExercise_4;public class MathClass {    public void sum(int...a){        int sum=0;        for(int x:a){            sum=sum+x;        }        System.out.println("Total sum "+sum);    }}

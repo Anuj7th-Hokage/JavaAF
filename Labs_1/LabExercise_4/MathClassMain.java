@@ -1,0 +1,1 @@
+package Labs_1.LabExercise_4;public class MathClassMain {    public static  void main(String[]args){        MathClass mt=new MathClass();        mt.sum(5,9,9,8);        mt.sum(5,9);        mt.sum(5,9,9,8);    }}

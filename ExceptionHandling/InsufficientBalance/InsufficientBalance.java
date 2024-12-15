@@ -1,1 +1,0 @@
-package ExceptionHandling.InsufficientBalance;public class InsufficientBalance extends Exception{    String msg;    public InsufficientBalance(){        msg="invalid balance";    }    public InsufficientBalance(String m){        super(m);        msg=m;    }}

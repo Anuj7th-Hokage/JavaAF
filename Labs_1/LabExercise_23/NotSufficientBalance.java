@@ -1,0 +1,1 @@
+package Labs_1.LabExercise_23;public class NotSufficientBalance extends Exception{    String msg;    public NotSufficientBalance(){        msg="invalid balance";    }    public NotSufficientBalance(String m){        super(m);        msg=m;    }}

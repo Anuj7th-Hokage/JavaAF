@@ -1,0 +1,1 @@
+package Labs_1.LabExercise_2;public class DateProblem2Main {    public static void main(String[]args){        DateProblem2 date2=new DateProblem2();        date2.print();        DateProblem2 date1=new DateProblem2(16,4,2080);        date1.print();    }}
